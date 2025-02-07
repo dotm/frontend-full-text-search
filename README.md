@@ -1,0 +1,5 @@
+- npm init
+- npm install elasticlunr
+- node save_index.js
+- node load_index.js
+- node index.js
